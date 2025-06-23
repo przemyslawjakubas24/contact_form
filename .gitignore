@@ -1,0 +1,5 @@
+# Composer vendor directory
+/vendor/
+
+# VS Code workspace files
+*.code-workspace
